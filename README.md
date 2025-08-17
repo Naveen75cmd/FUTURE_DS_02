@@ -114,12 +114,3 @@ Actionable recommendations for optimization
 
 ✨ This dashboard helps marketing teams track, analyze, and optimize ad campaigns with data-driven insights.
 
-## 🖼️ Dashboard Screenshots  
-
-![KPI Overview](screenshots/Screenshot 2025-08-17 212312.png)  
-
-### 📌 Campaign Insights  
-![Campaign Insights](screenshots/Screenshot 2025-08-17 212326.png)  
-
-### 📌 Engagement by Age & Gender  
-![Engagement](screenshots/Screenshot 2025-08-17 212340.png)  
